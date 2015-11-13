@@ -1,6 +1,7 @@
 
 .dark-constexpr-body {
-	background-color: #000D00;
+/*	background-color: #000D00;*/
+	background-color: #0F1617;
 }
 .dark-constexpr-title {
 	color: #FFFFFF;
@@ -14,4 +15,14 @@
 }
 .paper-back {
 	background-color: #FBFAF5;
+}
+
+.top-container {
+	background-image: url(../images/dark-constexpr_2.jpg);
+	min-height: 1617px;
+}
+a.top-link {
+	display: block;
+	width: 1140px;
+	height: 456px;
 }
